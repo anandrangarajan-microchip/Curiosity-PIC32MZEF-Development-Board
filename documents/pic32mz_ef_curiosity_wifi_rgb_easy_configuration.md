@@ -8,7 +8,7 @@ The WiFi RGB Easy Configuraion demo showcases on how to configure an embedded Wi
 
 The **PIC32MZ EF Curiosity Development Board** has on on-board MRF24WN0MA WiFi module, which can be configured using this demo. Also the demo features changing the color of the on-board RGB LED using the web-page hosted by by the Curiosity board.
 
-![PIC32MZ EF Curiosity Overview]
+### Curiosity PIC32MZEF Development Board Overview ###![]
 ![](images/pic32mz_ef_curiosity.png)
 
 ----------
@@ -31,7 +31,7 @@ You will need the following Microchip development tools to run WiFi RGB Easy Con
 >>>>>>>>>>>>>>>
 ###Building the Application###
 
-- Download the project from GitHub to your local PC.
+- Download the project  to your local PC.
 - To build this project, you must open (In MPLAB X, `File>Open Project`) the `wifi_rgb_easy_configuration.X ` project (from `<path-of-project-in-your-pc>/pic32mz_ef_curiosity/software/tcpip/wifi_rgb_easy_configuration/firmware`) in MPLAB X IDE, as shown below. 
 
 ![Open Project](images/open_project.png)
