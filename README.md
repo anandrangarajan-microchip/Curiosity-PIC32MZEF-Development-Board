@@ -1,2 +1,1 @@
-# Curiosity-PIC32MZEF-Development-Board
-Repository Contains Downloadable Demos and UserGuide for Microchip's  Curiosity PIC32MZEF Development Board
+![Curiosity PIC32MZEF Development Board ](images/DM320104_PIC32MZ Curiosity Development Board_Front_7x5 REVIEW.jpg)
