@@ -10,6 +10,7 @@ The **PIC32MZ EF Curiosity Development Board** has on on-board MRF24WN0MA WiFi m
 
 ### Curiosity PIC32MZEF Development Board Overview ###
 ![](images/pic32mz_ef_curiosity.png)
+![](images/DM320104_PIC32MZ Curiosity Development Board_Front_7x5 REVIEW.Jpg)
 
 ----------
 >>>>>>>>>>>>>>>
