@@ -8,7 +8,7 @@ The WiFi RGB Easy Configuraion demo showcases on how to configure an embedded Wi
 
 The **PIC32MZ EF Curiosity Development Board** has on on-board MRF24WN0MA WiFi module, which can be configured using this demo. Also the demo features changing the color of the on-board RGB LED using the web-page hosted by by the Curiosity board.
 
-### Curiosity PIC32MZEF Development Board Overview ###![]
+### Curiosity PIC32MZEF Development Board Overview ###
 ![](images/pic32mz_ef_curiosity.png)
 
 ----------
