@@ -1,9 +1,9 @@
 ### Downloadable Projects for Curiosity PIC32MZEF Development Board...
 
 ---
-### Introduction
+### Build  Projects without writing a single line of code.!!!!
 Projects that are pre-built and ready to run  on your Curiosity Board. 
-Follow the documentation steps and you can create your first PIC32MZ Project without writing a single line of code.!!!!
+ 
 
 Each Project comes with the documentation and Project file. 
 Simply Download the project file.
@@ -19,4 +19,4 @@ MPLAB Harmony includes a set of peripheral libraries, drivers and system service
 ---
 ### Out of Box Guides
 Select the demo that you are using below to go to the out of box guide:
-- [IoT Ethernet Out of Box Guide](documents/iot-ethernet-out-of-box-guide.md)
+- [WIFI Controlled RGB LED Project](documents/)
