@@ -2,12 +2,14 @@
 
 ---
 ### Build  Projects without writing a single line of code.!!!!
-These Projects that are pre-built  and ready to run  on your Curiosity Board. 
+Pre-built Projects ready to run  the PIC32MZ Curiosity Development Board.
+Installation Required: MPLABX IDE, XC32 Compiler
+Optional Installation : MPLAB Harmony
  
-
+## 
 Each Project comes with the documentation and Project file. 
 Simply Download the project file.
-The documentation provides step by step instructions on creating the project . The document also provides options to Run the project with or without downloading MPLAB Harmony.
+The documentation provides step by step instructions on creating the project . The documentation also provides project expansion options. 
 
  ### List of Projects
 - [1.WIFI Controlled RGB LED Project](documents/)
