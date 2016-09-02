@@ -2,7 +2,7 @@
 
 ---
 ### Build  Projects without writing a single line of code.!!!!
-These Projects that are pre-built and ready to run  on your Curiosity Board. 
+These Projects that are pre-built  and ready to run  on your Curiosity Board. 
  
 
 Each Project comes with the documentation and Project file. 
