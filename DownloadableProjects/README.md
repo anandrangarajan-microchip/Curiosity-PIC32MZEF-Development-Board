@@ -12,8 +12,9 @@ The documentation provides step by step instructions on creating the project . T
 
 ### List of Projects
 - [1.WIFI Controlled RGB LED Project](documents/)
-Control  Color of RGB LED on Curiosity Board through a Web Server Using a WIFI Interface.
-
+(Control  Color of RGB LED on Curiosity Board through a Web Server Using a WIFI Interface.)
+- [2.WIFI Controlled RGB LED Project](documents/)
+(Control  Color of RGB LED on Curiosity Board through a Web Server Using a WIFI Interface.)
 ###MPLAB Harmony
 MPLAB Harmony is a flexible, abstracted, fully integrated firmware development platform for PIC32 microcontrollers. It takes key elements of modular and object oriented design, adds in the flexibility to use a Real-Time Operating System (RTOS) or work without one, and provides a framework of software modules that are easy to use, configurable for your specific needs, and that work together in complete harmony.
 
