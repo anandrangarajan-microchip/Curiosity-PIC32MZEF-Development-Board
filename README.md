@@ -6,4 +6,4 @@ The Curiosity Development Board includes an integrated programmer/debugger ,an o
 ## Curiosity PIC32MZEF Downloadable Projects
 ### Downloadable Projects that are pre-built and ready to run on the Curiosity PIC32MZEF Development Board...
 ### Build  Projects without writing a single line of code.!!!!
-### [Click on Curiosity PIC32MZEF Downloadable Projects](DownloadableProjects/)
+### [Curiosity PIC32MZEF Downloadable Projects](DownloadableProjects/)
