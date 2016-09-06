@@ -1,1 +1,1 @@
-![WIFI Controlled RGB LED Project ](documents/images/WIFIRGBLED.jpg)
+![WIFI Controlled RGB LED Project ](../../documents/images/WIFIRGBLED.jpg)
