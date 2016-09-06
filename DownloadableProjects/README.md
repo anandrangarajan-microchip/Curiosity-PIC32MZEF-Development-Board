@@ -8,7 +8,8 @@ Pre-built Projects ready to run on the PIC32MZ Curiosity Development Board.
  
 Each Project comes with the documentation and Project file. 
 Simply Download the project file.
-The documentation provides step by step instructions on creating the project . The documentation also provides project expansion options. 
+The documentation provides step by step instructions on creating the project . 
+If you want to expand on the project application, The documentation also provides project expansion options. 
 
 ### List of Projects
 - [1.WIFI Controlled RGB LED Project](documents/)
